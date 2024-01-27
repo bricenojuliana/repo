@@ -2,6 +2,10 @@ Hola! Bienvenidos a este repositorio.
 
 Modificando el archivo :)
 
+<<<<<<< HEAD
 A ver si se ve mi nombre.
 
 Modificando al mismo tiempo.
+=======
+A ver si se ve mi nombre. mi nombre es cristian 
+>>>>>>> 83cdae02e2b2ced6e84d0277ea8d059b1167110a
